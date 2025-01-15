@@ -1,0 +1,23 @@
+.root {
+    -fx-background-image: url("garden_background.jpg");
+    -fx-background-size: cover;
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff; /* White text */
+}
+
+.button {
+    -fx-background-color: rgba(70, 130, 180, 0.8); /* Semi-transparent */
+    -fx-border-color: #4682b4;
+    -fx-border-width: 2px;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: rgba(70, 130, 180, 1); /* Opaque on hover */
+}

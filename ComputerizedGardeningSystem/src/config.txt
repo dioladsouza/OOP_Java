@@ -1,0 +1,15 @@
+basil, 45, 85, 400, cryptosporidium, giardia
+bellpepper, 50, 90, 50, none
+marigold, 40, 70, 800, hookworm, guinea worm
+spinach, 55, 90, 600, cryptosporidium
+rose, 40, 70, 500, none
+pom, 40, 75, 500, none
+sunflower, 60, 115, 700, giardia
+tulip, 55, 90, 300, cryptosporidium, tapeworm
+orchid, 45, 80, 550, hookworm, guinea worm
+cucumber, 48, 92, 650, cryptosporidium, giardia, hookworm
+tomato, 60, 90, 800, tapeworm, hookworm
+carrot, 55, 120, 450, guinea worm
+lavender, 50, 95, 600, none
+mint, 58, 100, 400, giardia, cryptosporidium
+daisy, 45, 93, 350, tapeworm, cryptosporidium

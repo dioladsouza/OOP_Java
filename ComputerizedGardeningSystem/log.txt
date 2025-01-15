@@ -1,0 +1,51 @@
+[2025-01-07T12:19:42.653478200 ]: Day 0: Garden initialized with plants: [basil, bellpepper, marigold, spinach, rose, pom, sunflower, tulip, orchid, cucumber, tomato, carrot, lavender, mint, daisy]
+[2025-01-07T12:19:43.822339900 ]: Day 0: Event: temperature
+[2025-01-07T12:19:43.823340300 ]: Day 0: Temperature is 72 degrees
+[2025-01-07T12:19:43.833339100 ]: Day 0: Plant Plant{name='basil', parasites=[cryptosporidium, giardia], tempTolerance=[45, 85], waterRequirement=400, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.834338500 ]: Day 0: Plant Plant{name='bellpepper', parasites=[], tempTolerance=[50, 90], waterRequirement=50, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.834338500 ]: Day 0: Plant Plant{name='marigold', parasites=[hookworm, guinea worm], tempTolerance=[40, 70], waterRequirement=800, health=95, dead=false} health decreased due to improper temperature.
+[2025-01-07T12:19:43.835338200 ]: Day 0: Plant Plant{name='spinach', parasites=[cryptosporidium], tempTolerance=[55, 90], waterRequirement=600, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.835338200 ]: Day 0: Plant Plant{name='rose', parasites=[], tempTolerance=[40, 70], waterRequirement=500, health=95, dead=false} health decreased due to improper temperature.
+[2025-01-07T12:19:43.835338200 ]: Day 0: Plant Plant{name='pom', parasites=[], tempTolerance=[40, 75], waterRequirement=500, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.835338200 ]: Day 0: Plant Plant{name='sunflower', parasites=[giardia], tempTolerance=[60, 115], waterRequirement=700, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.836340100 ]: Day 0: Plant Plant{name='tulip', parasites=[cryptosporidium, tapeworm], tempTolerance=[55, 90], waterRequirement=300, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.836340100 ]: Day 0: Plant Plant{name='orchid', parasites=[hookworm, guinea worm], tempTolerance=[45, 80], waterRequirement=550, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.836340100 ]: Day 0: Plant Plant{name='cucumber', parasites=[cryptosporidium, giardia, hookworm], tempTolerance=[48, 92], waterRequirement=650, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.836340100 ]: Day 0: Plant Plant{name='tomato', parasites=[tapeworm, hookworm], tempTolerance=[60, 90], waterRequirement=800, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.836340100 ]: Day 0: Plant Plant{name='carrot', parasites=[guinea worm], tempTolerance=[55, 120], waterRequirement=450, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.837338900 ]: Day 0: Plant Plant{name='lavender', parasites=[], tempTolerance=[50, 95], waterRequirement=600, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.837338900 ]: Day 0: Plant Plant{name='mint', parasites=[giardia, cryptosporidium], tempTolerance=[58, 100], waterRequirement=400, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.837338900 ]: Day 0: Plant Plant{name='daisy', parasites=[tapeworm, cryptosporidium], tempTolerance=[45, 93], waterRequirement=350, health=105, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.837338900 ]: Day 0: Event: temperature
+[2025-01-07T12:19:43.838339200 ]: Day 0: Temperature is 69 degrees
+[2025-01-07T12:19:43.838339200 ]: Day 0: Plant Plant{name='basil', parasites=[cryptosporidium, giardia], tempTolerance=[45, 85], waterRequirement=400, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.838339200 ]: Day 0: Plant Plant{name='bellpepper', parasites=[], tempTolerance=[50, 90], waterRequirement=50, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.839338800 ]: Day 0: Plant Plant{name='marigold', parasites=[hookworm, guinea worm], tempTolerance=[40, 70], waterRequirement=800, health=100, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.839338800 ]: Day 0: Plant Plant{name='spinach', parasites=[cryptosporidium], tempTolerance=[55, 90], waterRequirement=600, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.839338800 ]: Day 0: Plant Plant{name='rose', parasites=[], tempTolerance=[40, 70], waterRequirement=500, health=100, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.839338800 ]: Day 0: Plant Plant{name='pom', parasites=[], tempTolerance=[40, 75], waterRequirement=500, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.840338800 ]: Day 0: Plant Plant{name='sunflower', parasites=[giardia], tempTolerance=[60, 115], waterRequirement=700, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.840338800 ]: Day 0: Plant Plant{name='tulip', parasites=[cryptosporidium, tapeworm], tempTolerance=[55, 90], waterRequirement=300, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.840338800 ]: Day 0: Plant Plant{name='orchid', parasites=[hookworm, guinea worm], tempTolerance=[45, 80], waterRequirement=550, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.840338800 ]: Day 0: Plant Plant{name='cucumber', parasites=[cryptosporidium, giardia, hookworm], tempTolerance=[48, 92], waterRequirement=650, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.840338800 ]: Day 0: Plant Plant{name='tomato', parasites=[tapeworm, hookworm], tempTolerance=[60, 90], waterRequirement=800, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.841338400 ]: Day 0: Plant Plant{name='carrot', parasites=[guinea worm], tempTolerance=[55, 120], waterRequirement=450, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.841338400 ]: Day 0: Plant Plant{name='lavender', parasites=[], tempTolerance=[50, 95], waterRequirement=600, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.841338400 ]: Day 0: Plant Plant{name='mint', parasites=[giardia, cryptosporidium], tempTolerance=[58, 100], waterRequirement=400, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.841338400 ]: Day 0: Plant Plant{name='daisy', parasites=[tapeworm, cryptosporidium], tempTolerance=[45, 93], waterRequirement=350, health=110, dead=false}health increased due to right temperature.
+[2025-01-07T12:19:43.841338400 ]: Day 0: Event: rain
+[2025-01-07T12:19:43.843339800 ]: Day 0: Rain: 15 units for plant basil
+[2025-01-07T12:19:43.843339800 ]: Day 0: Rain: 15 units for plant bellpepper
+[2025-01-07T12:19:43.844339200 ]: Day 0: Rain: 15 units for plant marigold
+[2025-01-07T12:19:43.844339200 ]: Day 0: Rain: 15 units for plant spinach
+[2025-01-07T12:19:43.844339200 ]: Day 0: Rain: 15 units for plant rose
+[2025-01-07T12:19:43.844339200 ]: Day 0: Rain: 15 units for plant pom
+[2025-01-07T12:19:43.845338500 ]: Day 0: Rain: 15 units for plant sunflower
+[2025-01-07T12:19:43.845338500 ]: Day 0: Rain: 15 units for plant tulip
+[2025-01-07T12:19:43.845338500 ]: Day 0: Rain: 15 units for plant orchid
+[2025-01-07T12:19:43.845338500 ]: Day 0: Rain: 15 units for plant cucumber
+[2025-01-07T12:19:43.845338500 ]: Day 0: Rain: 15 units for plant tomato
+[2025-01-07T12:19:43.845338500 ]: Day 0: Rain: 15 units for plant carrot
+[2025-01-07T12:19:43.846339 ]: Day 0: Rain: 15 units for plant lavender
+[2025-01-07T12:19:43.846339 ]: Day 0: Rain: 15 units for plant mint
+[2025-01-07T12:19:43.846339 ]: Day 0: Rain: 15 units for plant daisy
